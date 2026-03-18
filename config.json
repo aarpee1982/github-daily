@@ -1,0 +1,41 @@
+{
+  "max_results_per_bucket": 8,
+  "languages": ["Python", "TypeScript", "JavaScript", "Go", "Rust"],
+  "topics": [
+    "llm",
+    "agent",
+    "browser-automation",
+    "scraping",
+    "data-extraction",
+    "evaluation",
+    "workflow-automation",
+    "knowledge-management",
+    "local-llm",
+    "rag"
+  ],
+  "watch_queries": [
+    "AI agents for automation",
+    "browser automation",
+    "web scraping extraction",
+    "evaluation framework llm",
+    "local model inference",
+    "knowledge extraction pdf",
+    "workflow automation github actions",
+    "research automation"
+  ],
+  "exclude_terms": [
+    "awesome-",
+    "tutorial",
+    "course",
+    "examples",
+    "boilerplate",
+    "interview",
+    "leetcode",
+    "100-days",
+    "from-scratch"
+  ],
+  "min_stars_sustained": 150,
+  "min_stars_durable": 1500,
+  "recent_push_days": 60,
+  "durable_push_days": 120
+}
